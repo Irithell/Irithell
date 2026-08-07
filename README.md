@@ -1,7 +1,7 @@
 # Hi, I'm Irithell 👋
 
 Backend developer from Brazil 🇧🇷, building CLI tools, Termux packages, and npm libraries.
-I work across the full stack but my heart lives in the backend — especially when there's Rust involved.
+I work across the full stack but my heart lives in the backend — especially when there's Rust and Go involved.
 
 ## About Me
 
