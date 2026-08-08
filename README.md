@@ -1,7 +1,7 @@
 # Hi, I'm Irithell 👋
 
 Backend developer from Brazil 🇧🇷, building CLI tools, Termux packages, and npm libraries.
-I work across the full stack but my heart lives in the backend — especially when there's Rust and Go involved.
+I work across the full stack but my heart lives in the backend — especially when there's Rust involved.
 
 ## About Me
 
@@ -48,7 +48,9 @@ I work across the full stack but my heart lives in the backend — especially wh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irithell&hide_border=true&layout=compact&langs_count=8)](https://github.com/Irithell)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Irithell&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Irithell&theme=onedark&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## Metrics
+
+<!-- gerado automaticamente pelo GitHub Actions todo dia -->
+![Metrics](./github-metrics.svg)
