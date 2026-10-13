@@ -6,7 +6,7 @@ I work across the full stack but my heart lives in the backend — especially wh
 ## About Me
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Irithell.Irithell)](https://visitor-badge.laobi.icu/badge?page_id=Irithell.Irithell)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/5515996361316)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/5515998361316)
 [![npm](https://img.shields.io/badge/npm-jean--irithell-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~jean-irithell)
 [![GitHub followers](https://img.shields.io/github/followers/Irithell?color=27da6b&logo=Handshake)](https://github.com/Irithell?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Irithell?color=fefb77&logo=Undertale)](https://github.com/Irithell?tab=repositories)
